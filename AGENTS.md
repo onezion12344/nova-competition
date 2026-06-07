@@ -22,7 +22,7 @@
 | **Local repo** | `~/nova-competition/` |
 | **Notion team wiki** | [NOVA Team Wiki](https://notion.so/378d45f5ce6b81688efcee3be8cc24c0) |
 | **Hermes session** | Telegram topic "Nova" (same group, same topic) |
-| **Submission form** | https://ust.az1.qualtrics.com/jfe/form/SV_2aAH6lphN7C7QQC |
+| **GitHub** | https://github.com/onezion12344/nova-competition |
 
 ## 3. Git Workflow
 
