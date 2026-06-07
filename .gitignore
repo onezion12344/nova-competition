@@ -1,0 +1,6 @@
+# Nova .gitignore
+__pycache__/
+*.pyc
+.DS_Store
+*.env
+node_modules/
