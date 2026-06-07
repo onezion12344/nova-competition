@@ -66,10 +66,8 @@ All team members share the **same Hermes session** (Telegram topic).
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Track selection | 🔴 Not decided | |
-| Team formation | 🔴 Not started | Need 2–5 members |
-| Registration form | 🔴 Not submitted | |
-| Project abstract | 🔴 Not started | |
+| Track selection | 🟡 Decided | Social Impact: Metacognitive Branching Narrative |
+| Project abstract | 🟡 In progress | Scope & framework doc written |
 | Slide deck | 🔴 Not started | |
 | Intro video | 🔴 Not started | |
 | AI prompts | 🔴 Not started | |
@@ -80,7 +78,8 @@ All team members share the **same Hermes session** (Telegram topic).
 | `main` | Harry | Project scaffold | Stable |
 
 ### Recent Activity
-- **2026-06-08:** Initialized repo, AGENTS.md, Notion Team Wiki (7 pages: Team Wiki, Local Setup, Git Workflow, Agent Manual, Progress Dashboard, Per-Person Branch Tracker, Collaboration Protocol)
+- **2026-06-08:** Initialized repo, AGENTS.md, Notion Team Wiki (7 pages)
+- **2026-06-08:** Track selected: Social Impact. Scope & Framework document written (`docs/scope-and-framework.md`) — three-layer paper architecture (Core → Branching → Design), game mechanic fusion, player journey design
 
 ## 6. Branch Documentation Template
 
