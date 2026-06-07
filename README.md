@@ -5,7 +5,7 @@
 - **Deadline:** June 30, 2026
 - **Registration:** [HK University Students Form](https://ust.az1.qualtrics.com/jfe/form/SV_2aAH6lphN7C7QQC)
 - **Official page:** https://ctbe.hkust.edu.hk/events/nova-national-ai-creativity-competition
-- **Team wiki (Notion):** See `AGENTS.md` for Notion link
+- **Team wiki (Notion):** [NOVA Team Wiki](https://notion.so/378d45f5ce6b81688efcee3be8cc24c0)
 
 ## Quick Start
 

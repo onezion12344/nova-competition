@@ -19,7 +19,7 @@
 | What | Where |
 |------|-------|
 | **Local repo** | `~/nova-competition/` |
-| **Notion team wiki** | Nova page → Team Wiki (see Notion link below) |
+| **Notion team wiki** | [NOVA Team Wiki](https://notion.so/378d45f5ce6b81688efcee3be8cc24c0) |
 | **Hermes session** | Telegram topic "Nova" (same group, same topic) |
 | **Submission form** | https://ust.az1.qualtrics.com/jfe/form/SV_2aAH6lphN7C7QQC |
 
@@ -77,7 +77,7 @@ All team members share the **same Hermes session** (Telegram topic).
 | `main` | Stable | Empty (initialized) |
 
 ### Recent Activity
-*(None yet — project just initialized)*
+- **2026-06-08:** Initialized repo, AGENTS.md, Notion Team Wiki (Local Setup, Git Workflow, Agent Manual, Progress Dashboard)
 
 ## 6. Branch Documentation Template
 
