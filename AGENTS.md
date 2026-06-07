@@ -9,10 +9,11 @@
 
 **NOVA: National AI Creativity Competition** — HKUST × Tencent Research Institute
 - **Deadline:** June 30, 2026 (registration + proposal submission)
-- **Team size:** 2–5 HK university students (can cross institutions)
+- **Team:** Harry (Lead, active), Kimmie (joining, Telegram setup pending)
 - **Prize:** ¥100,000 RMB cash + WorkBuddy/CodeBuddy 1-year membership
 - **Three tracks:** Social Impact | Creative Arts | Business Intelligence
 - **Official:** https://ctbe.hkust.edu.hk/events/nova-national-ai-creativity-competition
+- **Work mode:** Async via Git + periodic sync meetings. Per-person branch tracking.
 
 ## 2. Where Things Live
 
@@ -34,9 +35,11 @@ main          ← stable, reviewed
 
 ### Rules
 - **Never commit directly to `main`** — always PR or merge from feature branch
-- Branch naming: `feature/<what>`, `fix/<what>`, `docs/<what>`
+- Branch naming: `<your-name>/<what>` (e.g., `harry/bias-checker`, `kimmie/ui-design`)
 - Commit messages: imperative, short (`Add bias analysis module`, not `Added bias analysis`)
-- After finishing a feature, merge to `main` and delete the feature branch
+- After finishing a feature, merge to `main`, update the [Branch Tracker](https://notion.so/378d45f5ce6b81e2863bd6b57fbffe2f), and delete the feature branch
+- Contributions are tracked permanently even after merge — see [Contribution Leaderboard](https://notion.so/378d45f5ce6b81e2863bd6b57fbffe2f)
+- Full protocol: [Collaboration Protocol](https://notion.so/378d45f5ce6b81338129f7481d8de337)
 
 ### How agents work with Git
 ```bash
@@ -72,12 +75,12 @@ All team members share the **same Hermes session** (Telegram topic).
 | AI prompts | 🔴 Not started | |
 
 ### Active Branches
-| Branch | Purpose | Status |
-|--------|---------|--------|
-| `main` | Stable | Empty (initialized) |
+| Branch | Person | Purpose | Status |
+|--------|--------|---------|--------|
+| `main` | Harry | Project scaffold | Stable |
 
 ### Recent Activity
-- **2026-06-08:** Initialized repo, AGENTS.md, Notion Team Wiki (Local Setup, Git Workflow, Agent Manual, Progress Dashboard)
+- **2026-06-08:** Initialized repo, AGENTS.md, Notion Team Wiki (7 pages: Team Wiki, Local Setup, Git Workflow, Agent Manual, Progress Dashboard, Per-Person Branch Tracker, Collaboration Protocol)
 
 ## 6. Branch Documentation Template
 
